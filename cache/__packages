@@ -1,0 +1,9 @@
+base
+knitr
+dplyr
+proto
+gsubfn
+DBI
+RSQLite
+sqldf
+ggplot2
